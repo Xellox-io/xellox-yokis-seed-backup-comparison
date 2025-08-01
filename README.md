@@ -1,5 +1,7 @@
 # Comparative Review: Xellox Yokis vs. Cryptosteel vs. Billfodl vs. Cryptotag Zeus
 
+![Xellox Yokis Kit – Ultimate Seed-Phrase Storage](xellox-yokis-kit-seed-backup-engraver.png)
+
 When it comes to securing cryptocurrency seed phrases and other critical information, it's important to choose a method that is both secure and durable. Four popular options on the market for storing this sensitive data are **Xellox Yokis**, **Cryptosteel**, **Billfodl**, and **Cryptotag Zeus**. Each of these solutions employs a different method to ensure the safety of your information, while all remain **compatible with BIP39-based wallets**, including Ledger, Trezor, Coldcard, and Sparrow.
 
 ## Xellox Yokis
